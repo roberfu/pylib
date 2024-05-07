@@ -1,0 +1,1 @@
+-e git+https://github.com/roberfu/pylib.git@8630ebdfb5ed590baa94ce9766ea82e8843414c4#egg=library
