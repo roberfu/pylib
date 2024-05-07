@@ -1,1 +1,6 @@
 # pylib
+
+```
+pip install -e .
+
+```
